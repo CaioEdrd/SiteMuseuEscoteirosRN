@@ -1,3 +1,15 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Flask
+.flaskenv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
